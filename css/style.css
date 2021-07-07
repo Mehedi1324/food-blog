@@ -1,0 +1,160 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background: #90909008;
+}
+span {
+    color: #d4b613;
+}
+.parts {
+    display: flex;
+    width: 100%;
+    padding-top: 21px;
+    margin-bottom: 80px;
+}
+.half_side h1 {
+    font-size: 62px;
+    color: #545454;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.half_side {
+    width: 50%;
+    padding-left: 109px;
+}
+
+.text {
+    padding-top: 12%;
+    padding-left: 8%;
+}
+.text p {
+    padding: 80px 169px 2px 0px;
+    font-size: 20px;
+    font-family: system-ui;
+    color: #676767;
+    margin-bottom: 55px;
+}
+a {
+    text-decoration: none;
+    border: 1px;
+    background-image: linear-gradient(orange,#ff4a04d9 );
+    color: white;
+    padding: 16px 30px 16px 30px;
+    border-radius: 27px;
+    box-shadow: 1px 3px 6px 1px #989898bd;
+}
+.second_part{
+    background-image: url(../image/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-top: 4%;
+    background-size:cover;
+
+}
+.half_side.img1 img {
+    width: 50%;
+    margin-left: 26%;
+}
+.text2 h1 {
+    font-size: 35px;
+    font-weight: bolder;
+    color: #0000007a;
+}
+.text2 p {
+    font-size: 16px;
+    color: #353535;
+    padding: 29px 92px 55px 1px;
+}
+.half_side {
+    width: 50%;
+    padding-left: 61px;
+    padding-right: 5px;
+}
+.text2 {
+    margin-top: 8%;
+}
+.banner{
+    text-align: center;
+    margin-bottom: 7%;
+}
+.banner h1 {
+    font-size: 35px;
+    font-family: system-ui;
+    color: #000000a1;
+}
+.banner p {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.container {
+    display: flex;
+    width: 89%;
+    margin-left: 11%;
+}
+.sl_banner {
+    margin: 2%;
+    border-radius: 33px;
+    width: 21%;
+    background-color: white;
+    text-align: left;
+    padding: 2%;
+    box-shadow: 1px 6px 15px 2px #989898bd;
+  
+}
+.sl_banner img {
+    width: 99%;
+}
+.container p {
+    padding: 0px;
+    text-align: left;
+    padding-right: 42px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.footer {
+    text-align: center;
+    background-image: linear-gradient(
+45deg
+,black, #00000099, #0c0a06);
+    color: white;
+    padding: 1%;
+}
+
+.half_side.frm_img {
+    padding-left: 0px;
+    width: 95%;
+    background: black;
+    height: 900px;
+}
+.half_side.form input {
+    width: 80%;
+    height: 48px;
+    border-radius: 7px;
+}
+.submit{
+    margin-top:15% ;
+}
+.submit a {
+    padding-left: 35%;
+    padding-right: 35%;
+    border-radius: 6px;
+}
+section.parts.form {
+    margin: 0px;
+
+}
+.half_side.form {
+    background: radial-gradient(#f1f5a3, #00000052);
+}
+.form h1 {
+    padding: 10px;
+    margin-top: 3%;
+    color: black;
+}
+.cmnt input {
+    padding-bottom: 54%;
+}
